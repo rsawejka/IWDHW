@@ -1,0 +1,9 @@
+nav ul{
+    display: flex;
+    flex-direction: row;
+    color: red;
+    list-style: none;
+}
+nav ul li{
+    padding-left: 30px;
+}
